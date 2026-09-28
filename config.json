@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-functions-and-modules",
+      "title": "Python Functions and Modules",
+      "description": "Write reusable Python functions, organize logic into modules, and practice clean program structure.",
+      "path": "assignments/python-functions-and-modules",
+      "dueDate": "2026-10-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
